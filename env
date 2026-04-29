@@ -1,0 +1,8 @@
+OLLAMA_BASE_URL="http://host.docker.internal:11434"
+
+MODEL_OPUS="ollama/qwen3.5:4b"
+MODEL_SONNET="ollama/qwen3.5:4b"
+MODEL_HAIKU="ollama/qwen3.5:4b"
+MODEL="ollama/qwen3.5:4b"
+
+ANTHROPIC_AUTH_TOKEN="freecc"
